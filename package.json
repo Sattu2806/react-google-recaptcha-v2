@@ -1,6 +1,6 @@
 {
-  "name": "react-google-recaptcha-v2",
-  "version": "0.0.1",
+  "name": "@sattu2806/react-google-recaptcha-v2",
+  "version": "0.0.2",
   "scripts": {
     "rollup": "rollup -c"
   },
@@ -33,5 +33,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/sattu2806",
+    "access": "public"
+  },
   "types": "dist/index.d.ts"
 }
