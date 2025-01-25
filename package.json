@@ -1,6 +1,6 @@
 {
   "name": "@sattu2806/react-google-recaptcha-v2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "rollup": "rollup -c"
   },
